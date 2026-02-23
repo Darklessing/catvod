@@ -72,8 +72,7 @@ var index_config_default = {
   },
   danmu: {
     urls: [
-      { address: "https://fjj0417.dpdns.org", name: "API-1" },
-      { address: "https://313236.xyz", name: "API-2" }
+      { address: "http://127.0.0.1:9321", name: "内置弹幕", builtin: true }
     ],
     autoPush: true,
     debug: false
