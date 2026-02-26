@@ -72,7 +72,9 @@ var index_config_default = {
   },
   danmu: {
     urls: [
-      { address: "http://127.0.0.1:9321", name: "内置弹幕", builtin: true }
+      { address: "http://127.0.0.1:9321", name: "内置弹幕", builtin: true },
+      { address: "https://313236.xyz/87654321", name: "公益弹幕1" },
+      { address: "https://fjj0417.dpdns.org/87654321", name: "公益弹幕2" }
     ],
     autoPush: true,
     debug: false
