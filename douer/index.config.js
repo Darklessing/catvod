@@ -59,8 +59,8 @@ var isReservedOrUnroutableIPv4 = (ip) => {
   return /^0\./.test(text) || /^127\./.test(text) || /^169\.254\./.test(text) || /^192\.0\.0\./.test(text) || /^192\.0\.2\./.test(text) || /^198\.18\./.test(text) || /^198\.19\./.test(text) || /^198\.51\.100\./.test(text) || /^203\.0\.113\./.test(text) || /^22[4-9]\./.test(text) || /^23\d\./.test(text) || /^24\d\./.test(text) || /^25[0-5]\./.test(text);
 };
 var isLikelyCellularInterface = (name = "") => /(rmnet|ccmni|pdp|wwan|cell|mobile|clat|v4-rmnet)/i.test(String(name || ""));
-var isLikelyLanInterface = (name = "") => /(wlan|wi-?fi|eth|en\d|lan|bridge|br-)/i.test(String(name || ""));
-var isLikelyVirtualOrTunnelInterface = (name = "") => /(virtual|veth|vethernet|vmware|vbox|hyper-v|docker|podman|wsl|utun|tun|tap|tailscale|zerotier|wireguard|wg|clash|mihomo|loopback|pseudo)/i.test(String(name || ""));
+var isLikelyLanInterface = (name = "") => /(wlan|wi-?fi|eth|en\d|lan|bridge)/i.test(String(name || ""));
+var isLikelyVirtualOrTunnelInterface = (name = "") => /(virtual|veth|vethernet|vmware|vbox|hyper-v|docker|podman|br-|wsl|utun|tun|tap|tailscale|zerotier|wireguard|wg|clash|mihomo|loopback|pseudo)/i.test(String(name || ""));
 var calcCandidateScore = (candidate) => {
   let score = 0;
   if (/^192\.168\./.test(candidate.ip)) {
@@ -145,6 +145,10 @@ var index_config_default = {
     password: "CatPawPlay",
     serverName: "CatPawPlay",
     enable: true,
+    tmdbEnable: true,
+    tmdbApiKey: "",
+    tmdbLanguage: "zh-CN",
+    tmdbImageBase: "https://image.tmdb.org/t/p/original",
     searchSourcePrefix: true
   },
   y115: {
@@ -183,9 +187,7 @@ var index_config_default = {
   },
   danmu: {
     urls: [
-      { address: builtinDanmuAddress, name: "内置弹幕", builtin: true },
-      { address: "https://313236.xyz/87654321", name: "公益弹幕1" },
-      { address: "https://fjj0417.dpdns.org/87654321", name: "公益弹幕2" }
+      { address: builtinDanmuAddress, name: "内置弹幕", builtin: true }
     ],
     autoPush: true,
     debug: false
@@ -196,6 +198,18 @@ var index_config_default = {
   },
   cms: {
     list: []
+  },
+  customSpiders: {
+    enabled: true,
+    dir: "",
+    urls: [
+      "https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/影视/采集/瓜子.js"
+    ],
+    strict: false,
+    allowOverride: false,
+    cacheTtlMs: 5e3,
+    factoryTimeoutMs: 1e4,
+    urlTimeoutMs: 1e4
   },
   live2vod: {
     sources: [
