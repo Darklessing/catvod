@@ -1,5 +1,5 @@
 {
-  "title": "catvod.rex",
+  "title": "catvod",
   "description": "测试测试测试！",
   "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/A01B16D9-7C05-463F-B4CF-9C0956CDAD08.png",
   "widgets": [
