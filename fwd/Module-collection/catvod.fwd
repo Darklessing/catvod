@@ -1,0 +1,139 @@
+{
+  "name": "路也迢迢",
+  "title": "路也迢迢",
+  "description": "欢迎加入 路也迢迢",
+  "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
+  "logo": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
+  "widgets": [
+    {
+      "id": "fwd.muou.wangpan",
+      "title": "木偶",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.5.5",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/muouL-rex.fwd"
+    },
+    {
+      "id": "fwd.wogg.wangpan",
+      "title": "玩偶",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/wogg-rex.fwd"
+    },
+    {
+      "id": "fwd.huajuan.wangpan",
+      "title": "花卷",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.2.2",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/huajuan_rex.fwd"
+    },
+    {
+      "id": "fwd.woniu.wangpan",
+      "title": "蜗牛",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.1",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/woniu_rex.fwd"
+    },
+    {
+      "id": "fwd.zhizhen.wangpan",
+      "title": "至臻",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.3",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/zhizhen-rex.fwd"
+    },
+    {
+      "id": "fwd.duoduo.wangpan",
+      "title": "多多",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/duoduo-rex.fwd"
+    },
+    {
+      "id": "fwd.labi.wangpan",
+      "title": "蜡笔",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/labi-rex.fwd"
+    },
+    {
+      "id": "fwd.shandian.wangpan",
+      "title": "闪电",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/shandian-rex.fwd"
+    },
+    {
+      "id": "fwd.ouge.wangpan",
+      "title": "欧哥",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/ouge-rex.fwd"
+    },
+    {
+      "id": "fwd.huban.wangpan",
+      "title": "虎斑",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/huban-rex.fwd"
+    },
+    {
+      "id": "fwd.xiaoban.wangpan",
+      "title": "小斑",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/xiaoban-rex.fwd"
+    },
+    {
+      "id": "fwd.tg.wangpan",
+      "title": "TG聚合",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.4",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/TG-%E8%81%9A%E5%90%88-rex.fwd"
+    },
+    {
+      "id": "fwd.tgsou.wangpan",
+      "title": "TG搜",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.3",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/fwd/modules/tgsou-rex.fwd"
+    }
+  ]
+}
