@@ -2,7 +2,6 @@
   "title": "catvod.rex",
   "description": "测试测试！",
   "icon": "",
-  "logo": "https://fwd.uou.qzz.io/icon.png",
   "widgets": [
     {
       "id": "forward.muou.wangpan",
