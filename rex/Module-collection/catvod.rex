@@ -23,7 +23,7 @@
       "version": "1.0.0",
       "author": "VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/muouL-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/wogg-rex.js"
     },
     {
       "id": "rex.muou.wangpan",
@@ -33,7 +33,7 @@
       "version": "1.0.0",
       "author": "VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/muouL-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/huajuan_rex.js"
     }
   ]
 }
