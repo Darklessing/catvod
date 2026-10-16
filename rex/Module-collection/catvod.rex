@@ -1,9 +1,9 @@
 {
-  "name": "宝宝巴士乐园",
-  "title": "宝宝巴士乐园",
-  "description": "欢迎加入 宝宝巴士乐园 | t.me/nostremby",
-  "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/A01B16D9-7C05-463F-B4CF-9C0956CDAD08.png",
-  "logo": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/A01B16D9-7C05-463F-B4CF-9C0956CDAD08.png",
+  "name": "路也迢迢",
+  "title": "路也迢迢",
+  "description": "欢迎加入 路也迢迢",
+  "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
+  "logo": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
   "widgets": [
     {
       "id": "rex.muou.wangpan",
