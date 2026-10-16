@@ -1,7 +1,8 @@
 {
   "title": "catvod",
   "description": "测试测试！",
-  "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/A01B16D9-7C05-463F-B4CF-9C0956CDAD08.png",
+  "icon": "",
+  "logo": "https://fwd.uou.qzz.io/icon.png",
   "widgets": [
     {
       "id": "forward.muou.wangpan",
