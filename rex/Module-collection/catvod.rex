@@ -11,9 +11,9 @@
       "description": "",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "",
-      "icon": "https://fwd.uou.qzz.io/icon.png",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/muou(rex).js"
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/muouL-rex.js"
     }
   ]
 }
