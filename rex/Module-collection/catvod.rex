@@ -26,7 +26,7 @@
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/wogg-rex.js"
     },
     {
-      "id": "rex.muou.wangpan",
+      "id": "rex.huajuan.wangpan",
       "title": "花卷",
       "description": "",
       "requiredVersion": "0.0.1",
