@@ -14,6 +14,26 @@
       "author": "VLE",
       "icon": "",
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/muouL-rex.js"
+    },
+    {
+      "id": "rex.wogg.wangpan",
+      "title": "玩偶",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/muouL-rex.js"
+    },
+    {
+      "id": "rex.muou.wangpan",
+      "title": "花卷",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/muouL-rex.js"
     }
   ]
 }
