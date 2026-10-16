@@ -1,0 +1,80 @@
+{
+  "wogg-rex.js": {
+    "source_sha256": "967c777db7a73604ae765c6fc022d676e414f3eb797f185f380a74f6df2ca73b",
+    "encrypted_sha256": "3805e4ff4422d2ed87ed9a80f68c2d89b2a7f8de1696b1c1dd667e86eff594e4",
+    "source_bytes": 68392,
+    "encrypted_bytes": 174001
+  },
+  "muouL-rex.js": {
+    "source_sha256": "28f0ec8af6c172c205f035150a829f3270c285c753155f747d9acd63a982d871",
+    "encrypted_sha256": "69fb9eaee666b6d0471ba2d1dbce58e277a64fb412a0e5521fc74e447f9d5a31",
+    "source_bytes": 64016,
+    "encrypted_bytes": 166385
+  },
+  "huajuan_rex.js": {
+    "source_sha256": "e61745b3875cc08502abc3cfe85055486ce4ddb755c24142574d3ed01408bfe0",
+    "encrypted_sha256": "3bd7118f74ba99a0947c178ff7428f5a3d9ff8e106329fe57a239e716f59d81d",
+    "source_bytes": 69577,
+    "encrypted_bytes": 177849
+  },
+  "labi-rex.js": {
+    "source_sha256": "acc6b859f628e8c683cf61f008db94b2b52d77a59e7ee4fd52a8e7d20092332d",
+    "encrypted_sha256": "758882ae3c5a5e3e5e393c46ef72c9f55d875fe6a1f73a6de87832b771242efa",
+    "source_bytes": 70224,
+    "encrypted_bytes": 185681
+  },
+  "shandian-rex.js": {
+    "source_sha256": "22dc4d5034acbba1c3ea7df3259a5e6f6011226ebd9f712b8975324189c714b3",
+    "encrypted_sha256": "940388fa68c65793ddd5dd7a0b4fa427c09ff548dab161931044201e57bda8c1",
+    "source_bytes": 69556,
+    "encrypted_bytes": 182173
+  },
+  "duoduo-rex.js": {
+    "source_sha256": "2dca6e3a7cc3085b16916eba6c941cff0be8cebf0204cdcef91fa15f418299ac",
+    "encrypted_sha256": "02676a19de9e8f2c23d755406121b0edf017de3074fe9e22e12ece9c9aa827ce",
+    "source_bytes": 69915,
+    "encrypted_bytes": 182769
+  },
+  "ouge-rex.js": {
+    "source_sha256": "8b33edc054086ad3736bf5e7f25e004183db44fee42feabe1c22770552671476",
+    "encrypted_sha256": "2b766b5fca592619d84a81b17bdf068a61b8fa180a63a3dd7c342a30ea1e1d90",
+    "source_bytes": 69796,
+    "encrypted_bytes": 183477
+  },
+  "huban-rex.js": {
+    "source_sha256": "51b581759e5c684c204b36a5b391198bec322aafdca2df04ba7a757bc6f3b0e6",
+    "encrypted_sha256": "26aef010d8548849c2fef81f07ada33005d0d6d80d9cba3de851dfec5a2bde23",
+    "source_bytes": 70228,
+    "encrypted_bytes": 183421
+  },
+  "xiaoban-rex.js": {
+    "source_sha256": "261d22d9fa81d755c8055fa0082e0b1a5d8e7e7581dedb4ab4501e06b68aef37",
+    "encrypted_sha256": "4101db98f4eae62b557820284ea807c9eb21c9290767db518e062bb1145eb9ab",
+    "source_bytes": 69849,
+    "encrypted_bytes": 180157
+  },
+  "TG-聚合-rex.js": {
+    "source_sha256": "f3eff68c5cb0260af2028ff92ee89e4b06a1f8b368f3f8a30b8c3cb3a18ddebe",
+    "encrypted_sha256": "d0f93aacc4eab031c238ab41910cc0cb2317adcdc19659f52c829a560bf5a151",
+    "source_bytes": 69816,
+    "encrypted_bytes": 174897
+  },
+  "tgsou-rex.js": {
+    "source_sha256": "104600bde2a0e80473b6d58cb068e4dc015c5162496d827e688ca02e32df7c13",
+    "encrypted_sha256": "0c3a6084ff582f712d5617af58f845d15e0f272a4baf0a8f672c201ea12aba89",
+    "source_bytes": 65009,
+    "encrypted_bytes": 170709
+  },
+  "woniu_rex.js": {
+    "source_sha256": "0abd8ddcf7ac6a61163c3eeafba7487c4cc7ecd779e97281c325c480a8c1bb29",
+    "encrypted_sha256": "7118d03e83aca3811335d2595b4e9b25eacd6fa5a491ba7dd999ef24f3f526d3",
+    "source_bytes": 84136,
+    "encrypted_bytes": 229145
+  },
+  "zhizhen-rex.js": {
+    "source_sha256": "dd60ee95496a86995a346a2e83de7b4dccd138f0334ba2199d44def306f6a023",
+    "encrypted_sha256": "26bf286396c8c1db384e85b784d2fa65554b4cf195c90d91bf51cd67dd481f7e",
+    "source_bytes": 62860,
+    "encrypted_bytes": 160649
+  }
+}
