@@ -1,7 +1,7 @@
 {
   "name": "路也迢迢",
   "title": "路也迢迢",
-  "description": "欢迎加入 路也迢迢丨夏恩二次优化",
+  "description": "Rex网盘模块丨夏恩二次优化",
   "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
   "logo": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
   "widgets": [
