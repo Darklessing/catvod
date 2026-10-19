@@ -10,7 +10,7 @@
       "title": "木偶",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.5.4",
+      "version": "1.5.5",
       "author": "VLE",
       "icon": "",
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/muouL-rex.js"
