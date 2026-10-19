@@ -1,89 +1,89 @@
 {
   "name": "路也迢迢",
   "title": "路也迢迢",
-  "description": "欢迎加入 路也迢迢丨夏恩二次优化",
+  "description": "欢迎加入 路也迢迢",
   "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
   "logo": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
   "widgets": [
     {
-      "id": "rex.muou.wangpan",
+      "id": "forward.muou.quark",
       "title": "木偶",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.5.5",
-      "author": "VLE",
+      "version": "1.5.9",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/muouL-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/muouL-xn.js"
     },
     {
-      "id": "rex.wogg.wangpan",
+      "id": "forward.wogg.xn",
       "title": "玩偶",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "VLE",
+      "version": "1.0.4",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/wogg-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/wogg-xn.js"
     },
     {
-      "id": "rex.huajuan.wangpan",
+      "id": "forward.huajuan.xn",
       "title": "花卷",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.2.2",
-      "author": "VLE",
+      "version": "1.1.6",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/huajuan_rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/huajuan_rex.js"
     },
     {
-      "id": "rex.woniu.wangpan",
+      "id": "forward.woniu.115",
       "title": "蜗牛",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.1.1",
-      "author": "VLE",
+      "version": "1.1.5",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/woniu_rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/woniu_rex.js"
     },
     {
-      "id": "rex.zhizhen.wangpan",
+      "id": "forward.zhizhen.xn",
       "title": "至臻",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.0.3",
-      "author": "VLE",
+      "version": "1.0.7",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/zhizhen-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/zhizhen-xn.js"
     },
     {
-      "id": "rex.duoduo.wangpan",
+      "id": "forward.duoduo.xn",
       "title": "多多",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "VLE",
+      "version": "1.0.4",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/duoduo-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/duoduo-xn.js"
     },
     {
-      "id": "rex.labi.wangpan",
+      "id": "forward.labi.xn",
       "title": "蜡笔",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "VLE",
+      "version": "1.0.4",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/labi-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/labi-xn.js"
     },
     {
-      "id": "rex.shandian.wangpan",
+      "id": "forward.shandian.xn",
       "title": "闪电",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "VLE",
+      "version": "1.0.4",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/shandian-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/shandian-xn.js"
     },
     {
       "id": "rex.ouge.wangpan",
@@ -91,9 +91,9 @@
       "description": "",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "VLE",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/ouge-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/ouge-xn.js"
     },
     {
       "id": "rex.huban.wangpan",
@@ -101,9 +101,9 @@
       "description": "",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "VLE",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/huban-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/huban-xn.js"
     },
     {
       "id": "rex.xiaoban.wangpan",
@@ -111,19 +111,19 @@
       "description": "",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "VLE",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaoban-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/xiaoban-xn.js"
     },
     {
-      "id": "rex.tg.wangpan",
+      "id": "rex.tgpd.wangpan",
       "title": "TG频道",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.0.4",
-      "author": "VLE",
+      "version": "1.0.0",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/TG-%E8%81%9A%E5%90%88-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/TG%E9%A2%91%E9%81%93-xn.js"
     },
     {
       "id": "rex.tgsou.wangpan",
@@ -131,9 +131,9 @@
       "description": "",
       "requiredVersion": "0.0.1",
       "version": "1.0.3",
-      "author": "VLE",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/tgsou-rex.js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/tgsou-xn.js"
     }
   ]
 }
