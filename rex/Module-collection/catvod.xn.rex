@@ -1,7 +1,7 @@
 {
   "name": "路也迢迢",
   "title": "路也迢迢",
-  "description": "欢迎加入 路也迢迢",
+  "description": "欢迎加入 路也迢迢丨夏恩二次优化",
   "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
   "logo": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
   "widgets": [
@@ -86,51 +86,51 @@
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/shandian-xn.js"
     },
     {
-      "id": "rex.ouge.wangpan",
+      "id": "forward.ouge.xn",
       "title": "欧哥",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
+      "version": "1.0.4",
       "author": "夏恩/VLE",
       "icon": "",
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/ouge-xn.js"
     },
     {
-      "id": "rex.huban.wangpan",
+      "id": "forward.huban.xn",
       "title": "虎斑",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
+      "version": "1.0.4",
       "author": "夏恩/VLE",
       "icon": "",
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/huban-xn.js"
     },
     {
-      "id": "rex.xiaoban.wangpan",
+      "id": "forward.xiaoban.xn",
       "title": "小斑",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
+      "version": "1.0.4",
       "author": "夏恩/VLE",
       "icon": "",
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/xiaoban-xn.js"
     },
     {
-      "id": "rex.tgpd.wangpan",
+      "id": "forward.tg.channels",
       "title": "TG频道",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
+      "version": "1.0.8",
       "author": "夏恩/VLE",
       "icon": "",
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/TG%E9%A2%91%E9%81%93-xn.js"
     },
     {
-      "id": "rex.tgsou.wangpan",
+      "id": "forward.tgsou.xn",
       "title": "TG搜",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.0.3",
+      "version": "1.0.7",
       "author": "夏恩/VLE",
       "icon": "",
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/tgsou-xn.js"
