@@ -10,7 +10,7 @@
       "title": "木偶",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.5.5",
+      "version": "1.5.4",
       "author": "VLE",
       "icon": "",
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/muouL-rex.js"
@@ -117,7 +117,7 @@
     },
     {
       "id": "rex.tg.wangpan",
-      "title": "TG聚合",
+      "title": "TG频道",
       "description": "",
       "requiredVersion": "0.0.1",
       "version": "1.0.4",
