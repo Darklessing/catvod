@@ -24,16 +24,6 @@
       "author": "luyett",
       "icon": "",
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/tgsou(rex).js"
-    },
-    {
-      "id": "forward.dongpiandi.rex",
-      "title": "懂片帝 Rex",
-      "description": "",
-      "requiredVersion": "0.0.1",
-      "version": "1.1.0",
-      "author": "luyett",
-      "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/%E6%87%82%E7%89%87%E5%B8%9D4K(rex).js"
     }
   ]
 }
