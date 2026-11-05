@@ -26,6 +26,16 @@
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/tgsou%28rex%29.js"
     },
     {
+      "id": "rex.dongpiandi",
+      "title": "懂片帝",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "VLE",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/dongpiandi.js"
+    },
+    {
       "id": "rex.tvbyunbo",
       "title": "TVB云播",
       "description": "",
@@ -34,16 +44,6 @@
       "author": "luyett",
       "icon": "",
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/TVByunbo.js"
-    },
-    {
-      "id": "rex.dongpiandi",
-      "title": "懂片帝",
-      "description": "",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "luyett",
-      "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/dongpiandi.js"
     },
     {
       "id": "rex.shanzha",
