@@ -31,7 +31,7 @@
       "description": "",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "VLE",
+      "author": "luyett",
       "icon": "",
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/dongpiandi.js"
     },
