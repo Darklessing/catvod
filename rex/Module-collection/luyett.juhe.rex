@@ -1,39 +1,29 @@
 {
-  "name": "𝓵𝓾𝔂𝓮𝓽𝓽",
-  "title": "𝓵𝓾𝔂𝓮𝓽𝓽",
-  "description": "Rex影视聚合模块订阅丨路也聚合",
+  "name": "路也迢迢",
+  "title": "路也迢迢",
+  "description": "Rex网盘模块丨夏恩二次优化",
   "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
   "logo": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
   "widgets": [
     {
-      "id": "forward.agg3.rex",
-      "title": "玩偶聚合Rex",
+      "id": "forward.muou.quark",
+      "title": "木偶",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.4.0",
-      "author": "luyett",
+      "version": "1.5.9",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/wanoujuhe(rex).js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/muouL-xn.js"
     },
     {
-      "id": "forward.tgsou.rex",
-      "title": "TG搜Rex",
+      "id": "forward.wogg.xn",
+      "title": "玩偶",
       "description": "",
       "requiredVersion": "0.0.1",
-      "version": "1.4.0",
-      "author": "luyett",
+      "version": "1.0.4",
+      "author": "夏恩/VLE",
       "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/tgsou(rex).js"
-    },
-    {
-      "id": "forward.dongpiandi.rex",
-      "title": "懂片帝 Rex",
-      "description": "",
-      "requiredVersion": "0.0.1",
-      "version": "1.1.0",
-      "author": "luyett",
-      "icon": "",
-      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/%E6%87%82%E7%89%87%E5%B8%9D4K(rex).js"
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/xiaen/wogg-xn.js"
     }
   ]
 }
