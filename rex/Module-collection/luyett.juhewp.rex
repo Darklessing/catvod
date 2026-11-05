@@ -1,6 +1,6 @@
 {
-  "name": "luyett",
-  "title": "luyett",
+  "name": "𝓵𝓾𝔂𝓮𝓽𝓽",
+  "title": "𝓵𝓾𝔂𝓮𝓽𝓽",
   "description": "Rex影视聚合模块订阅丨路也聚合",
   "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
   "logo": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
