@@ -134,6 +134,16 @@
       "author": "VLE",
       "icon": "",
       "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/zhuijudaren.js"
+    },
+    {
+      "id": "rex.pianku",
+      "title": "片库",
+      "description": "",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "speedo",
+      "icon": "",
+      "url": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/modules/pianku.js"
     }
   ]
 }
